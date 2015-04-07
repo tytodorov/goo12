@@ -1,0 +1,45 @@
+{
+  "ProjectName": "gogo",
+  "ProjectGuid": "991c1505-04f5-4fe5-9f3c-3ee79614b0b4",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.gogo",
+  "DisplayName": "gogo",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{91b8101e-db85-45cb-8ed8-5c565961fc3e}",
+  "WP8ProductID": "{651e8da4-0de9-4c03-8c32-a91240ca0a79}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.gogo",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
